@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="selamat_datang_di_warok_droid">Selamat Datang di Warok Droid</string>
+    <string name="content_desc">Warok Droid merupakan suatu aplikasi yang berisi berbagai berita terkatual dan terpercaya dari dalam maupun manca negara.</string>
+    <string name="selengkapnya">Selengkapnya</string>
+    <string name="gabung_sekarang">Gabung Sekarang</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+</resources>
